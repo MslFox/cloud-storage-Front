@@ -1,0 +1,1 @@
+- *для запуска фронта в файле env.js необходимо указать URL адрес сервера `const serverUrl`   (например `const serverUrl = 'http://localhost';`)*
